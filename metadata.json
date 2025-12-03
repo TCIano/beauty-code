@@ -1,0 +1,5 @@
+{
+  "name": "CodeSnap for WPS",
+  "description": "Transform raw code into beautiful, presentation-ready images for PowerPoint using AI and syntax highlighting.",
+  "requestFramePermissions": []
+}
